@@ -9,11 +9,12 @@ This is a simple whatsapp message sender created in Python using Selenium!
 
 2. git clone this project to your preferred directory.
 
-3. cd Simple-Whatsapp-Message-Sender-
+3. `cd Simple-Whatsapp-Message-Sender-`
 
-4. python3 whatsapp.py
+4. `python3 whatsapp.py`
 
 Requirements:
+
 Selenium Web-Driver
 
 ``` pip install selenium```
