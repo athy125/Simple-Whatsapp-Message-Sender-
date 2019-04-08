@@ -1,5 +1,6 @@
 # Simple-Whatsapp-Message-Sender-
 This is a simple whatsapp message sender created in Python using Selenium!
+
 You can access it using your Terminal
 
 **I have used Python 3 in this!**
