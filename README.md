@@ -13,7 +13,8 @@ This is a simple whatsapp message sender created in Python using Selenium!
 
 4. `python3 whatsapp.py`
 
-Requirements:
+
+**Requirements:**
 
 Selenium Web-Driver
 
